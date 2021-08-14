@@ -18,5 +18,9 @@ So finally I decided to have a list of **cute** names which are easier to rememb
 
 PS: PRs are welcome!
 
+# Guidelines
+1. Ensure the names are cute 🐥
+2. Should not leak implementation details 🙅
+
 That's all 🙏
 Give it a ⭐ if you like it!
