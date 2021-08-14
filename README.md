@@ -18,4 +18,5 @@ So finally I decided to have a list of **cute** names which are easier to rememb
 
 PS: PRs are welcome!
 
-That's all!
+That's all 🙏
+Give it a ⭐ if you like it!
