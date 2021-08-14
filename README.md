@@ -7,21 +7,23 @@ But when it comes to multicharacter operators, dictating each letter one by one 
 
 So finally I decided to have a list of **cute** names which are easier to remember for most commonly used scala operators —
 
-| **Operator** | **Common Name**      |
-| ------------ | -------------------- |
-| `*>`         | Ice Cream            |
-| `<*`         | Reverse Cream        |
-| `<>`         | Diamond              |
-| `++`         | Fence                |
-| `+++`        | Wide Fence           |
-| `>=>`        | Fish                 |
-| `=>`         | Fat Arrow            |
-| `->`         | Thin Arrow           |
-| `~>`         | Squiggly Arrow       |
-| `>>`         | Forward              |
-| `<<`         | Back                 |
-| `>>>`        | Flash / Fast Forward |
-| `<<<`        | Flash / Fast Back    |
+| **Operator** | **Common Name** |
+| ------------ | --------------- |
+| `*>`         | Ice Cream       |
+| `<*`         | Reverse Cream   |
+| `<>`         | Diamond         |
+| `++`         | Fence           |
+| `+++`        | Wide Fence      |
+| `>=>`        | Fish            |
+| `=>`         | Fat Arrow       |
+| `->`         | Thin Arrow      |
+| `~>`         | Squiggly Arrow  |
+| `>>`         | Forward         |
+| `<<`         | Back            |
+| `>>>`        | Fast Forward    |
+| `<<<`        | Rewind          |
+| `::`         | Cube            |
+| `:::`        | Cuboid          |
 
 If you think you have a better name or if you want to add another operator please send a PR 🙌
 
