@@ -1,0 +1,23 @@
+{
+  "name": "scala-operator-names",
+  "version": "1.0.0",
+  "description": "This is a list of **cute** operator names that I have generally seen in scala code-bases. One letter operators such as `!` (excalmation) or `*` (star) are easy to communicate verbally. But when it comes to multicharacter operators, dictating each letter one by one turns out to be quite inefficient. (Infact I have often used _hand gestures_ 🖖🤏🤙 to describe the operator I would want to use).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "git ls-files | grep -E '.*\\.(md)$' | xargs prettier --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharmath/scala-operator-names.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharmath/scala-operator-names/issues"
+  },
+  "homepage": "https://github.com/tusharmath/scala-operator-names#readme",
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}
