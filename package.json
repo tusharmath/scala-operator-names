@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "git ls-files | grep -E '.*\\.(md)$' | xargs prettier --write"
+    "format": "git ls-files | grep -E '.*\\.(md)$' | xargs prettier"
   },
   "repository": {
     "type": "git",
